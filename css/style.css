@@ -1,7 +1,7 @@
 body,html{
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
+    background: #ce93d8;
     cursor: url("../images/cursor.png"),auto;
 }
 #Heading{
@@ -23,14 +23,21 @@ body,html{
     width: 25%;
     margin: 3%;
     background: #ffffff;
-    box-shadow: 3px 3px 3px gray;
+    box-shadow: 6px 6px 6px gray;
    animation-delay: 1.3s;
 }
 #main-box .in-box{
   height: 480px;
     float: left;
 }
-
+h2 {
+    margin-left: 25%;
+}
+h3 {
+    margin-left: 6%;
+    margin-right: 4%;
+    
+}
 a {
     text-decoration: none;
     color: #FFA656;
